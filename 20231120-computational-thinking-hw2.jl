@@ -81,7 +81,7 @@ Let's create a vector `v` of random numbers of length `n=100`.
 """
 
 # ╔═╡ 7fcd6230-ee09-11ea-314f-a542d00d582e
-n = 60
+n = 100
 
 # ╔═╡ 7fdb34dc-ee09-11ea-366b-ffe10d1aa845
 v = rand(n)
