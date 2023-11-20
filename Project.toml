@@ -1,0 +1,10 @@
+name = "julia_Study_Group"
+uuid = "5bf58b5b-1017-426f-ae30-41908fe52c0d"
+version = "0.1.0"
+
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
+[compat]
+Pluto = "0.19.32"
+julia = "1.9"
